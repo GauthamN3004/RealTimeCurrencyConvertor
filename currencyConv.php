@@ -409,7 +409,7 @@
       $frm = $_POST['from'];
       $to = $_POST['to'];
       $value = $_POST['val'];
-      $output = exec("python C:\Users\Gautham\Desktop\curr.py $value $frm $to");
+      $output = exec("python curr.py $value $frm $to");
       echo "<br><h1 class='cen jumbotron h1'>$value $frm =  $output $to</h1>";
     }
      ?>
