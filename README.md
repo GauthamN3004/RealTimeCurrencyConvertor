@@ -3,6 +3,7 @@ a website for real time currency conversion using web scraping.
 
 ### Requirements
 simple_html_dom.php - this file is used for web scraping
+
 currency codes - the codes for different currencies
 
 ### How it works
